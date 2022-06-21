@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100%">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Alexander García</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
