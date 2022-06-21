@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzCjVL-k1NPMjf0h6YkbXvoo54Oo3niPUT1A&usqp=CAU" width="100%"
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100%"
 
 <h1 align="center">Hi 👋, I'm Alexander García</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
@@ -27,6 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexgarpul&show_icons=true&locale=en" alt="alexgarpul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexgarpul&" alt="alexgarpul" /></p>
-
-
 
